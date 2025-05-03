@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simran911
-- 👀 I’m interested in DATA SCIENCE and backend development
-- 🌱 I’m currently learning  Artificial intelligence
+- 👀 I’m interested in DATA SCIENCE and Artificial Intelligence
+- 🌱 I’m currently working as an AI Engineer Intern
+  
 
 
 <!---
