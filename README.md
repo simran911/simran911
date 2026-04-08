@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simran911
 - 👀 I’m interested in DATA SCIENCE and Artificial Intelligence
-- 🌱 I’m currently working as an AI Engineer Intern
+- 🌱 I’m currently working as an AI Engineer 
   
 
 
